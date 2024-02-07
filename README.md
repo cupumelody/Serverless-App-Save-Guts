@@ -10,6 +10,6 @@ The advanced demo consists of 6 stages :-
 - STAGE 5 : Implement the static frontend application and test functionality,
 - STAGE 6 : Cleanup the account.
 
-<img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/32064983-71e3-4bea-aa66-e972b37b6961" width="500" height="400"> <img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/c3192a42-ce51-4f50-94a9-a8aeb9c4a966" width="500" height="400">
-<img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/3b39862e-6a75-4620-a682-f15c218652e1" width="500" height="400"> <img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/64c8e2e5-96de-4e96-85da-23a5fd7e01b2" width="500" height="400">
-<img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/de2caf00-91f9-4225-92f5-1b53ee6218bd" width="500" height="400"> <img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/04cd53a9-8637-4835-91dd-7e6e828d972f" width="500" height="400">
+<img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/d002e371-15c5-4f93-ace9-009d224019bb" width="400" height="300"> <img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/9f467f99-8c86-4a93-b05b-c4528f871602" width="400" height="300">
+<img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/28dded7e-4309-4532-bf28-87860dfa6d02" width="400" height="300"> <img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/66420df1-7ac6-4600-968f-1644ad8f250f" width="400" height="300">
+<img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/49c2ea64-4e24-4339-a0dd-f1389d11ee0f" width="400" height="300"> <img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/6ab847e7-72bc-483d-973e-005050ec97da" width="400" height="300">
