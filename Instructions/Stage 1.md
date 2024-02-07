@@ -2,7 +2,9 @@
 
 ## Stage 1:  Configure Simple Email service
 
-### Stage 1A - Verify SES application sending email addresses.
+<img src="https://github.com/cupumelody/Serverless-App-Save-Guts/assets/145847069/d002e371-15c5-4f93-ace9-009d224019bb" width="600" height="500">
+
+### Stage 1A - Verify SES application sending email addresses
 
 The Save Guts application is set to dispatch reminder messages via SMS and Email. It will leverage the Simple Email Service (SES). In a production environment, it can be configured to permit sending from the application email to any users of the application. SES initiates in sandbox mode, ensuring that messages can only be sent to verified addresses, thereby preventing spam.
 
@@ -37,7 +39,7 @@ Record this address somewhere save as the `Save Guts Sending Address`.
 
 <br>
 
-### Stage 1B - Verify SES application customer email addresses.
+### Stage 1B - Verify SES application customer email addresses
 
 If you want to use a different email address for the test customer (recommended), follow the steps below;
 <br>
@@ -55,4 +57,13 @@ You should see a `Congratulations!` message.
 <br>
 Return to the SES console and refresh your browser, the verification status should now be `verified`.
 <br>
-Record this address somewhere save as the `Save Guts customer Address`.
+Record this address somewhere save as the `Save Guts Customer Address`.
+
+<br>
+
+## STAGE 1 - Finish
+
+At this point we have whitelisted 2 email addresses for use with SES.  
+
+- the `Save Guts Sending Address`.
+- the `Save Guts Customer Address`.
