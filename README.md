@@ -18,3 +18,4 @@ The advanced demo consists of 6 stages :-
 ## Instructions
 
 - [Stage 1](Instructions/Stage1.md)
+- [Stage 2](Instructions/Stage2.md)
