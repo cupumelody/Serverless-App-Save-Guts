@@ -20,3 +20,9 @@ The advanced demo consists of 6 stages :-
 - [Stage 1](Instructions/Stage1.md)
 - [Stage 2](Instructions/Stage2.md)
 - [Stage 3](Instructions/Stage3.md)
+- [Stage 4](Instructions/Stage4.md)
+- [Stage 5](Instructions/Stage5.md)
+- [Stage 6](Instructions/Cleanup.md)
+
+
+Lets Save Guts !!
