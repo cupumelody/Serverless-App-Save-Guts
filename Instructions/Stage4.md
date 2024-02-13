@@ -24,7 +24,7 @@ Scroll down, and remove all the code from the `lambda_function` text box.
 <br>
 Open this [link](https://github.com/cupumelody/Serverless-App-Save-Guts/files/14210587/api_lambda.zip) ,
 <br>
-Depending on your browser it might download the .py file, if so, open it in either your code editor, notepad or whatever lad, and copy it all into your clipboard.
+Depending on your browser it might download the .py file, if so, open it in either your code editor or notepad, and copy it all into your clipboard.
 <br>
 Move back to the Lambda console.
 <br>
@@ -50,7 +50,7 @@ Move to the API Gateway console https://console.aws.amazon.com/apigateway/main/a
 <br>
 Click `APIs` on the menu on the left,
 <br>
-Locate the `REST API` box, and click `Build` (being careful not to click the build button for any of the other types of API ... REST API is the one you need lads),
+Locate the `REST API` box, and click `Build` (being careful not to click the build button for any of the other types of API ... REST API is the one you need),
 <br>
 If you see a popup dialog `Create your first API` dismiss it by clicking `OK`,
 <br>
@@ -68,7 +68,7 @@ Click the `Actions` dropdown and Click `Create Resource`.
 <br>
 Under resource name enter `petcuddleotron`.
 <br>
-Make sure that `Configure as proxy resource` is **NOT** ticked - this forwards everything as is, through to a lambda function, because we want some control, we **DONT** want this ticked lad.
+Make sure that `Configure as proxy resource` is **NOT** ticked - this forwards everything as is, through to a lambda function, because we want some control, we **DONT** want this ticked.
 <br>
 Towards the bottom **MAKE SURE TO TICK** `Enable API Gateway CORS`.
 <br>
