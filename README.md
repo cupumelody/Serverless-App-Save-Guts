@@ -1,6 +1,9 @@
 # Serverless-App-Save-Guts
 
-This demo going to implement some a simple serverless application using AWS services, such as; S3, API Gateway, Lambda, Step Functions, SNS & SES.
+In this project we will be implementing a serverless reminder application.
+The application will load from an S3 bucket and run in browser, communicating with Lambda and Step functions via an API Gateway Endpoint
+Using the application you will be able to configure reminders for 'save Guts' to be sent using email.
+
 The advanced demo consists of 6 stages :-
 
 - STAGE 1 : Configure Simple Email service,
